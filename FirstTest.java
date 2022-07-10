@@ -1,5 +1,5 @@
 public class FirstTest{
  public static void main(String args[]){
-	Sysout.out.println("First Jenkins Project");	
+	System.out.println("First Jenkins Project");	
    }
 }
